@@ -1,1 +1,0 @@
-<button bindtap="{{a}}">点击授权登入</button><view><image src="{{b}}"></image></view>
